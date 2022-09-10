@@ -17,3 +17,8 @@ Done
 I TAKE NO RESPONSIBILITY FOR WHAT MAY HAPPEN TO YOUR PROFILE!
 
 USE AT YOUR OWN RISK!
+
+## Authors
+[Darkstreet](https://github.com/libDarkstreet)
+
+[Dason](https://github.com/Dason-Official)
