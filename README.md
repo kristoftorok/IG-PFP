@@ -11,3 +11,9 @@ Select the `manifest.json` file.
 Go to any instagram profile, Right click then click on `Download Profile Picture`(The cute unicorn)
 
 Done
+
+## Disclaimer
+
+I TAKE NO RESPONSIBILITY FOR WHAT MAY HAPPEN TO YOUR PROFILE!
+
+USE AT YOUR OWN RISK!
