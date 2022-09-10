@@ -6,11 +6,26 @@ Go to: `about:debugging#/runtime/this-firefox`
 
 Click on: `Load Temp Add-on`
 
+Select the `IG-PFP-firefox-main.zip` file.
+
+Go to any instagram profile, Right click then click on `Download Profile Picture`(The cute unicorn)
+
+Done
+
+## Or
+
+Go to: `about:debugging#/runtime/this-firefox`
+
+Click on: `Load Temp Add-on`
+
+Unzip the `IG-PFP-firefox-main.zip` file.
+
 Select the `manifest.json` file.
 
 Go to any instagram profile, Right click then click on `Download Profile Picture`(The cute unicorn)
 
 Done
+
 
 ## Disclaimer
 
