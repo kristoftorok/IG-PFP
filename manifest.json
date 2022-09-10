@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "IG PFP HD",
+    "version": "0.0.1",
+    "description": "Instagram HD profile picture viewer :)",
+    "author": "Darkstreet && Dason",
+    "permissions": [
+        "cookies",
+        "contextMenus",
+        "tabs",
+        "webRequest",
+        "webRequestBlocking",
+        "*://*.instagram.com/*"
+    ],
+    "background": {
+        "scripts": [
+            "contextmenu.js",
+            "instagram.js"
+        ]
+    },
+    "icons": {
+        "16": "icons/16.png",
+        "48": "icons/48.png",
+        "128": "icons/128.png"
+    }
+}
