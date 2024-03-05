@@ -5,12 +5,11 @@
     "description": "Instagram HD profile picture viewer :)",
     "author": "Darkstreet && Dason",
     "permissions": [
-        "cookies",
         "contextMenus",
         "tabs",
         "webRequest",
         "webRequestBlocking",
-        "*://*.instagram.com/*"
+        "https://*.instagram.com/*"
     ],
     "background": {
         "scripts": [
