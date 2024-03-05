@@ -5,6 +5,7 @@
     "description": "Instagram HD profile picture viewer :)",
     "author": "Darkstreet && Dason",
     "permissions": [
+        "cookies",
         "contextMenus",
         "tabs",
         "webRequest",
